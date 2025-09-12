@@ -1,0 +1,21 @@
+2025-07-06 22:45:26.710 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 22:45:28.311 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 22:45:52.415 [info] Getting Manifest... t3dotgg.vsc-material-theme-but-i-wont-sue-you
+2025-07-06 22:46:05.994 [info] Installing extension: t3dotgg.vsc-material-theme-but-i-wont-sue-you {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json","path":"/home/moaad/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.101.2","date":"2025-06-25T19:40:00.687Z"}}
+2025-07-06 22:46:15.583 [info] Extension signature verification result for t3dotgg.vsc-material-theme-but-i-wont-sue-you: UnknownError. Executed: false. Duration: 352ms.
+2025-07-06 22:46:15.588 [error] Error while installing the extension t3dotgg.vsc-material-theme-but-i-wont-sue-you Signature verification failed with 'UnknownError' error. vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json
+2025-07-06 22:46:15.590 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnknownError' error.: SignatureVerificationInternal: Signature verification failed with 'UnknownError' error.
+    at $h.Bb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64839)
+    at async $h.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63310)
+2025-07-06 22:46:25.365 [info] Getting Manifest... t3dotgg.vsc-material-theme-but-i-wont-sue-you
+2025-07-06 22:46:25.964 [info] Installing extension: t3dotgg.vsc-material-theme-but-i-wont-sue-you {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json","path":"/home/moaad/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.101.2","date":"2025-06-25T19:40:00.687Z"}}
+2025-07-06 22:46:29.154 [info] Extracted extension to file:///home/moaad/.vscode-oss/extensions/t3dotgg.vsc-material-theme-but-i-wont-sue-you-35.0.2-universal: t3dotgg.vsc-material-theme-but-i-wont-sue-you
+2025-07-06 22:46:29.163 [info] Renamed to /home/moaad/.vscode-oss/extensions/t3dotgg.vsc-material-theme-but-i-wont-sue-you-35.0.2-universal
+2025-07-06 22:46:29.182 [info] Extension installed successfully: t3dotgg.vsc-material-theme-but-i-wont-sue-you vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json
+2025-07-06 22:47:53.812 [info] Getting Manifest... ardonplay.vscode-jetbrains-icon-theme
+2025-07-06 22:47:55.340 [info] Installing extension: ardonplay.vscode-jetbrains-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json","path":"/home/moaad/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.101.2","date":"2025-06-25T19:40:00.687Z"}}
+2025-07-06 22:48:00.283 [info] Extension signature verification result for ardonplay.vscode-jetbrains-icon-theme: Success. Executed: true. Duration: 1217ms.
+2025-07-06 22:48:00.804 [info] Extracted extension to file:///home/moaad/.vscode-oss/extensions/ardonplay.vscode-jetbrains-icon-theme-0.0.4-universal: ardonplay.vscode-jetbrains-icon-theme
+2025-07-06 22:48:00.831 [info] Renamed to /home/moaad/.vscode-oss/extensions/ardonplay.vscode-jetbrains-icon-theme-0.0.4-universal
+2025-07-06 22:48:00.847 [info] Extension installed successfully: ardonplay.vscode-jetbrains-icon-theme vscode-userdata:/home/moaad/.vscode-oss/extensions/extensions.json
+2025-07-06 22:54:58.865 [info] Getting Manifest... ms-python.python

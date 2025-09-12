@@ -1,0 +1,1 @@
+2025-07-06 22:56:46.268 [error] Failed to set sticky bit on /tmp/moaad-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/moaad-code-oss-zsh'

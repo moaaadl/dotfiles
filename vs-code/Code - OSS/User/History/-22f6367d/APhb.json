@@ -1,0 +1,5 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.newWindowProfile": "Default",
+    "editor.fontSize": 16
+}

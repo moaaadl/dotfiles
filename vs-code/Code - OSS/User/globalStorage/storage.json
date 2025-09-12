@@ -1,0 +1,95 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f0270402a02dd8bc59f11b6302d50761cc58a1b697d40478da3be84f34dabd30",
+    "telemetry.devDeviceId": "3d83e0ac-9647-48d4-b320-faf031ba31f8",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/moaad/my-app"
+            },
+            {
+                "folderUri": "file:///home/moaad/Documents/Coding"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/moaad/hello": "__default__profile__",
+            "file:///home/moaad/Documents/Coding": "__default__profile__",
+            "file:///home/moaad/my-app": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#212121",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#eeffff",
+            "background": "#212121",
+            "editorBackground": "#212121",
+            "titleBarBackground": "#212121",
+            "titleBarBorder": "rgba(33, 33, 33, 0.38)",
+            "activityBarBackground": "#212121",
+            "activityBarBorder": "rgba(33, 33, 33, 0.38)",
+            "sideBarBackground": "#212121",
+            "sideBarBorder": "rgba(33, 33, 33, 0.38)",
+            "statusBarBackground": "#212121",
+            "statusBarBorder": "rgba(33, 33, 33, 0.38)",
+            "statusBarNoFolderBackground": "#212121"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 229,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/moaad/Documents/Coding",
+            "backupPath": "/home/moaad/.config/Code - OSS/Backups/6c1292d353f057221353d08c101c69fd",
+            "uiState": {
+                "mode": 1,
+                "x": 8,
+                "y": 44,
+                "width": 1350,
+                "height": 716,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 229,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "ac3cb6fbc6727a9b74cb2aa0d11087a9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c1004f3dfccd66e9509e7a9f2893764c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "90dd14bfccb6c53cde8edd10eefff3f8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c25d060bf1113343e8a28a8289980920": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

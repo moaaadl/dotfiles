@@ -1,0 +1,7 @@
+2025-07-25 17:40:09.033 [info] Started local extension host with pid 3995.
+2025-07-25 17:40:12.516 [error] Error while getting the latest version for the extension ardonplay.vscode-jetbrains-icon-theme. Offline
+2025-07-25 17:40:12.517 [error] Error while getting the latest version for the extension t3dotgg.vsc-material-theme-but-i-wont-sue-you. Offline
+2025-07-25 17:40:12.517 [error] Error while getting the latest version for the extension vscodevim.vim. Offline
+2025-07-25 17:40:13.976 [info] [perf] Render performance baseline is 177ms
+2025-07-25 17:40:17.172 [warning] [backup tracker] suspended, ignoring unregister event file:///home/moaad/my-app/package.json 
+2025-07-25 17:40:17.176 [warning] [backup tracker] suspended, ignoring unregister event file:///home/moaad/my-app/.next/types/package.json 

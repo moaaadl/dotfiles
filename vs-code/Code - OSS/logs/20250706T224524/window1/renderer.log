@@ -1,0 +1,206 @@
+2025-07-06 22:45:25.977 [info] Started local extension host with pid 2324.
+2025-07-06 22:45:26.699 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 22:45:28.723 [info] [perf] Render performance baseline is 52ms
+2025-07-06 22:45:29.459 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-06 22:45:31.274 [error] Error while getting the latest version for the extension vscodevim.vim. Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-07-06 22:46:15.638 [error] SignatureVerificationInternal: Signature verification failed with 'UnknownError' error.
+    at $h.Bb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64839)
+    at async $h.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63310)
+2025-07-06 22:46:15.659 [error] Signature verification failed with 'UnknownError' error.: SignatureVerificationInternal: Signature verification failed with 'UnknownError' error.
+    at $h.Bb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64839)
+    at async $h.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63310)
+2025-07-06 22:47:15.661 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 29ms.
+2025-07-06 22:47:15.951 [info] Started local extension host with pid 2512.
+2025-07-06 22:47:16.104 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-06 22:47:16.425 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 22:47:18.794 [info] [perf] Render performance baseline is 38ms
+2025-07-06 22:47:21.262 [error] Error while getting the latest version for the extension vscodevim.vim. Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-07-06 22:47:21.568 [error] Error while getting the latest version for the extension t3dotgg.vsc-material-theme-but-i-wont-sue-you. Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-07-06 22:55:18.900 [error] Error: Request timeout after 10000ms
+    at Timeout.<anonymous> (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:27676)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-06 22:55:18.904 [error] Request timeout after 10000ms: Error: Request timeout after 10000ms
+    at Timeout.<anonymous> (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:27676)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-06 22:56:09.068 [error] Error: Fetch timeout: 10000ms
+    at hsn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:37120)
+    at async Ewt.c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:25796)
+    at async BYe.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:38378)
+    at async Kwt.installFromGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3318:6544)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:38987
+2025-07-06 22:56:09.083 [error] Fetch timeout: 10000ms: Error: Fetch timeout: 10000ms
+    at hsn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:37120)
+    at async Ewt.c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:25796)
+    at async BYe.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:38378)
+    at async Kwt.installFromGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3318:6544)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:38987
+2025-07-06 22:56:23.634 [error] TypeError: Failed to fetch
+    at hsn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:36910)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:38136
+    at Ewt.c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:25802)
+    at Ewt.request (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:38128)
+    at BYe.P (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1871:308)
+    at async BYe.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:38378)
+    at async Kwt.installFromGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3318:6544)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:38987
+2025-07-06 22:56:23.643 [error] Failed to fetch: TypeError: Failed to fetch
+    at hsn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:36910)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:38136
+    at Ewt.c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:25802)
+    at Ewt.request (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3313:38128)
+    at BYe.P (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1871:308)
+    at async BYe.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:38378)
+    at async Kwt.installFromGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3318:6544)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:38987

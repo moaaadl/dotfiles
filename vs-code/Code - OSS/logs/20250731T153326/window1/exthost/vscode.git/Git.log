@@ -1,0 +1,39 @@
+2025-07-31 15:33:32.342 [info] [main] Log level: Info
+2025-07-31 15:33:32.342 [info] [main] Validating found git in: "git"
+2025-07-31 15:33:32.342 [info] [main] Using git "2.50.1" from "git"
+2025-07-31 15:33:32.342 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-31 15:33:32.342 [info] > git rev-parse --show-toplevel [29ms]
+2025-07-31 15:33:32.342 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-07-31 15:33:32.342 [info] [Model][openRepository] Opened repository (path): /home/moaad/my-app
+2025-07-31 15:33:32.342 [info] [Model][openRepository] Opened repository (real path): /home/moaad/my-app
+2025-07-31 15:33:32.342 [info] > git rev-parse --show-toplevel [41ms]
+2025-07-31 15:33:32.342 [info] > git config --get commit.template [60ms]
+2025-07-31 15:33:32.342 [info] [Git][getRemotes] No remotes found in the git config file
+2025-07-31 15:33:32.342 [info] > git rev-parse --show-toplevel [40ms]
+2025-07-31 15:33:32.342 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-07-31 15:33:32.342 [info] > git status -z -uall [57ms]
+2025-07-31 15:33:32.342 [info] > git rev-parse --show-toplevel [75ms]
+2025-07-31 15:33:32.342 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [92ms]
+2025-07-31 15:33:32.342 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [59ms]
+2025-07-31 15:33:32.373 [info] > git config --get --local branch.main.vscode-merge-base [878ms]
+2025-07-31 15:33:32.374 [warning] [Git][config] git config failed: Failed to execute git
+2025-07-31 15:33:32.394 [info] > git config --get commit.template [930ms]
+2025-07-31 15:33:32.395 [info] > git rev-parse --show-toplevel [952ms]
+2025-07-31 15:33:32.397 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-31 15:33:32.519 [info] > git check-ignore -v -z --stdin [92ms]
+2025-07-31 15:33:32.520 [info] > git reflog main --grep-reflog=branch: Created from *. [126ms]
+2025-07-31 15:33:32.530 [info] [Git][getRemotes] No remotes found in the git config file
+2025-07-31 15:33:32.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2025-07-31 15:33:32.608 [info] > git status -z -uall [24ms]
+2025-07-31 15:33:32.627 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [20ms]
+2025-07-31 15:33:32.848 [info] > git show --textconv :src/app/page.js [28ms]
+2025-07-31 15:33:32.854 [info] > git ls-files --stage -- src/app/page.js [12ms]
+2025-07-31 15:33:32.902 [info] > git cat-file -s 03f4b461fceb531b3bcc5e9623fa9c704a9658c5 [27ms]
+2025-07-31 15:33:33.282 [info] > git blame --root --incremental 76cbd3bbd6110bb2b7d67f74d95f8180b785e0cd -- src/app/page.js [5ms]
+2025-07-31 15:59:12.519 [info] > git show --textconv :src/app/layout.js [17ms]
+2025-07-31 15:59:12.521 [info] > git ls-files --stage -- src/app/layout.js [6ms]
+2025-07-31 15:59:12.528 [info] > git cat-file -s 66c5e125e6b963c25f6a00ea6593fa7062ad3bc3 [2ms]
+2025-07-31 15:59:24.071 [info] > git blame --root --incremental 76cbd3bbd6110bb2b7d67f74d95f8180b785e0cd -- src/app/layout.js [1ms]
+2025-07-31 16:00:13.692 [info] > git show --textconv :src/app/layout.js [7ms]
+2025-07-31 16:00:13.693 [info] > git ls-files --stage -- src/app/layout.js [1ms]
+2025-07-31 16:00:13.700 [info] > git cat-file -s 66c5e125e6b963c25f6a00ea6593fa7062ad3bc3 [1ms]

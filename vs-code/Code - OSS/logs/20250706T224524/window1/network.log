@@ -1,0 +1,9 @@
+2025-07-06 22:47:41.062 [error] #5: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2025-07-06 22:50:50.820 [error] #13: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2025-07-06 22:51:12.106 [error] #17: https://open-vsx.org/vscode/asset/ms-python/python/2025.4.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Fetch timeout: 10000ms
+2025-07-06 22:55:28.916 [error] #23: https://open-vsx.org/vscode/gallery/extensionquery - error POST Failed to fetch
+2025-07-06 22:55:59.048 [error] #24: https://open-vsx.org/vscode/asset/ms-python/python/2025.4.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Failed to fetch
+2025-07-06 22:56:09.049 [error] #25: https://open-vsx.org/vscode/asset/ms-python/python/2025.4.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Fetch timeout: 10000ms
+2025-07-06 22:56:11.336 [error] #26: https://open-vsx.org/vscode/gallery/extensionquery - error POST Failed to fetch
+2025-07-06 22:56:21.745 [error] #27: https://open-vsx.org/vscode/asset/ms-python/python/2025.4.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Fetch timeout: 10000ms
+2025-07-06 22:56:23.623 [error] #28: https://open-vsx.org/vscode/asset/ms-python/python/2025.4.0/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Failed to fetch

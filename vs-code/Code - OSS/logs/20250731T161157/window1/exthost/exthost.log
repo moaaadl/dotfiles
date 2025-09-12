@@ -1,0 +1,34 @@
+2025-07-31 16:11:59.588 [info] Extension host with pid 14480 started
+2025-07-31 16:11:59.588 [info] Skipping acquiring lock for /home/moaad/.config/Code - OSS/User/workspaceStorage/c25d060bf1113343e8a28a8289980920.
+2025-07-31 16:11:59.651 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-31 16:11:59.689 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-31 16:12:00.268 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-31 16:12:00.274 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-07-31 16:12:00.361 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-31 16:12:00.451 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-31 16:12:01.326 [info] Eager extensions activated
+2025-07-31 16:12:01.552 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-31 16:12:01.568 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-31 16:12:01.709 [info] ExtensionService#_doActivateExtension t3dotgg.vsc-material-theme-but-i-wont-sue-you, startup: false, activationEvent: 'onStartupFinished'
+2025-07-31 16:12:01.760 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-07-31 16:12:03.048 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2025-07-31 16:12:03.048 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2025-07-31 16:12:03.052 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2025-07-31 16:12:05.434 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-31 16:12:05.446 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-31 16:12:05.462 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-07-31 16:17:58.747 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-31 16:17:58.773 [error] TypeError: r.some is not a function
+	at h.saveToDisk (/home/moaad/.vscode-oss/extensions/vscodevim.vim-1.30.1-universal/out/extension.js:2:642157)
+	at t.deactivate (/home/moaad/.vscode-oss/extensions/vscodevim.vim-1.30.1-universal/out/extension.js:2:769030)
+	at QG.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:11726)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:9876
+	at Array.map (<anonymous>)
+	at QG.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:9864)
+	at QG.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:10107)
+	at Y3.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:914)
+	at us (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:356:9945)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:356:6484)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:3073)
+2025-07-31 16:17:58.777 [info] Extension host with pid 14480 exiting with code 0

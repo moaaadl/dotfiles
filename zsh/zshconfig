@@ -1,0 +1,95 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
+# ------------------------- #
+# Oh My Zsh + Powerlevel10k
+# ------------------------- #
+
+# Path to your Oh My Zsh installation
+export ZSH="$HOME/.oh-my-zsh"
+
+# Use Powerlevel10k theme
+ZSH_THEME="powerlevel10k/powerlevel10k"
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# Compile .zshrc for speed
+[[ -f ~/.zshrc ]] && zcompile ~/.zshrc
+
+# Plugins
+plugins=(git z zsh-autosuggestions zsh-completions)
+
+source $ZSH/oh-my-zsh.sh
+
+# Preferred editor
+export EDITOR="nvim"
+export TERM="xterm-256color"
+
+# PATH
+export PATH="$HOME/.local/bin:/usr/local/bin:$PATH"
+
+# ------------------------- #
+# Custom Aliases for macOS
+# ------------------------- #
+
+# Zsh helpers
+alias zshconf="nvim ~/.zshrc"
+alias srczsh="source ~/.zshrc && echo '.zshrc sourced!'"
+
+# System controls
+alias update="brew update && brew upgrade"
+alias clean="brew cleanup"
+alias out="sudo shutdown -h now"
+
+# Navigation & tools
+alias cls="clear"
+alias config='cd ~/.config && nvim .'
+alias q="exit"
+alias vim="nvim"
+alias show="neofetch"
+alias lfi3a="/Users/moaad/Documents/lfi3a/lfi3a"
+alias sonarstart="cd && /Downloads/sonarqube-25.12.0.117093/bin/macosx-universal-64/sonar.sh start"
+alias sonarstatus="cd && /Downloads/sonarqube-25.12.0.117093/bin/macosx-universal-64/sonar.sh status"
+alias sonarstop="cd && /Downloads/sonarqube-25.12.0.117093/bin/macosx-universal-64/sonar.sh stop"
+# Programming
+alias py="python3"
+alias myenv="cd ~/python && source myenv/bin/activate && cd"
+alias myenvt="deactivate"
+alias startmongo="/usr/local/mongodb/bin/mongod --dbpath ~/mongodb-data"
+alias startmysql="sudo /usr/local/mysql/support-files/mysql.server start"
+alias stopmysql="sudo /usr/local/mysql/support-files/mysql.server stop"
+alias statusmysql="sudo /usr/local/mysql/support-files/mysql.server status"
+# File manager
+alias file="open"
+
+# Downloads (example)
+alias dw="cd ~/Downloads/YOUTUBE && ~/Downloads/YOUTUBE/.download.sh"
+
+# ------------------------- #
+# Nerd Font + LS colors
+# ------------------------- #
+alias ls='ls -G'  # colorized ls
+alias ll='ls -lahG'
+
+# fzf
+if command -v fzf >/dev/null 2>&1; then
+  eval "$(fzf --completion)"
+fi
+
+# ------------------------- #
+# End of config
+# ------------------------- #
+export PATH="/Users/moaad/.config/herd-lite/bin:$PATH"
+export PHP_INI_SCAN_DIR="/Users/moaad/.config/herd-lite/bin:$PHP_INI_SCAN_DIR"
+export PATH="/usr/local/mongodb/bin:$PATH"
+export PATH=/usr/local/mongodb/bin:$PATH
+
+# Added by Antigravity
+export PATH="/Users/moaad/.antigravity/antigravity/bin:$PATH"
+
+export TERM=xterm-256color
+
+export PATH="$PATH:/Users/moaad/Downloads/sonar-scanner-8.0.1.6346-macosx-x64/bin"

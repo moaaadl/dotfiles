@@ -1,9 +1,0 @@
-{
-    "security.workspace.trust.untrustedFiles": "open",
-    "window.newWindowProfile": "Default",
-    "editor.fontSize": 16,
-    "workbench.navigationControl.enabled": false,
-    "workbench.layoutControl.enabled": false,
-    "workbench.statusBar.visible": false,
-    "workbench.colorTheme": "Material Theme Darker"
-}

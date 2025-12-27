@@ -1,7 +1,0 @@
-2025-07-06 22:55:42.927 [info] Started local extension host with pid 3212.
-2025-07-06 22:55:43.095 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-07-06 22:55:43.568 [info] ComputeTargetPlatform: linux-x64
-2025-07-06 22:55:45.676 [info] [perf] Render performance baseline is 35ms
-2025-07-06 22:55:55.295 [error] Error while getting the latest version for the extension ardonplay.vscode-jetbrains-icon-theme. Fetch timeout: 10000ms
-2025-07-06 22:55:55.296 [error] Error while getting the latest version for the extension t3dotgg.vsc-material-theme-but-i-wont-sue-you. Fetch timeout: 10000ms
-2025-07-06 22:55:55.297 [error] Error while getting the latest version for the extension vscodevim.vim. Fetch timeout: 10000ms

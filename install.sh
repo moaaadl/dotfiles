@@ -21,6 +21,7 @@ setup_link "hypr"
 setup_link "mako"
 setup_link "waybar"
 setup_link "wofi"
+setup_link "nvim"
 
 echo "🐚 Setting up ZSH..."
 [ -f "$HOME/.zshrc" ] && [ ! -L "$HOME/.zshrc" ] && mv "$HOME/.zshrc" "$HOME/.zshrc_backup"
